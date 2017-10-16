@@ -1,5 +1,5 @@
 var expect = require('chai').expect;
-var hello = require('../workspace/01_basics.js').hello;
+var hello = require('../solutions/01_basics.js').hello;
 var sum = require('../workspace/01_basics.js').sum;
 var billymaysify = require('../workspace/01_basics.js').billymaysify;
 var concat = require('../workspace/01_basics.js').concat;
